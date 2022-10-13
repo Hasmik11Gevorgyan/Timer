@@ -1,0 +1,51 @@
+.button{
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: blueviolet;
+    margin-left: 20px;
+    color: aliceblue;
+    border-color:white 2px solid;
+}
+
+.container{
+    position:relative;
+    left:350px;
+    top:70px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    height: 500px;
+    background-color: aquamarine;
+    border-radius: 45%;
+    border: 2 px solid black;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+.input{
+    font-size: 25px;
+    width: 200px;
+    height: 50px;
+    border-color: blue;
+}
+
+.time{
+  font-size:30px ;
+    font-family: cursive;
+}
+.space{
+    padding-bottom: 20px;
+}
+.btn{
+    width: 250px;
+    height: 50px;
+    border-radius: 15px;
+    
+    margin-top:100px ;
+    align-items: center;
+    margin-left: 100px;
+}
